@@ -1,0 +1,23 @@
+#the following line is the format of the data-input :
+#id,name,condition,department to be assigned to,priority
+Y6J1S685,McKenzie Mueller,Broken Wind,Pharmacy,2
+T2O5H955,Fleur Tucker,Broken Wind,Pharmacy,2
+V6W8A460,Charissa O. Delacruz,Invisibility,Pharmacy,6
+M0G3U108,Virginia U. Carroll,Slack Tongue,General,4
+F3A0J853,Eleanor U. Colon,Sleeping Illness,Pharmacy,1
+L4G2N232,Timon Knowles,Uncommon Cold,Pharmacy,3
+H8R7J858,Hall K. Webb,Broken Heart,Surgical,3
+W2E5N700,Lucy Richardson,Broken Heart,Surgical,4
+J8T9W290,Jerry Pacheco,Ruptured Nodules,Surgical,6
+E4J0I278,Leila N. Jenkins,Iron Lungs,Surgical,5
+P8N6V395,Coby R. Hinton,Broken Heart,Surgical,4
+O7B5L497,Lucas Y. Vargas,Kidney Beans,Surgical,3
+O7R8A767,Tiger M. Ray,Sleeping Illness,Pharmacy,4
+S1K1F722,Cora B. Golden,Uncommon Cold,Pharmacy,2
+S5D9K327,Leroy W. Stanton,Invisibility,Pharmacy,2
+Y0Y0N805,Emi P. Blankenship,Invisibility,Pharmacy,4
+U0I2K700,Octavius G. Anthony,Broken Wind,Pharmacy,6
+C8L6R470,Xyla Dejesus,Sleeping Illness,Pharmacy,1
+R7Z3R946,Anika H. Raymond,Sleeping Illness,Pharmacy,1
+L0X6C997,Ryder Q. Harrison,Invisibility,Pharmacy,7
+V7P6X640,Nasim Lowery,Serious Radiation,General,5

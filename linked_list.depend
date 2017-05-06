@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1494104788 source:c:\users\tomer\desktop\mycodes\linked_list\linked_list\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
